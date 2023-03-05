@@ -1,6 +1,8 @@
 package proj_1;
 
 public class pattern {
+	
+	private int number;
 
 	public static void main(String[] args)
 	{
